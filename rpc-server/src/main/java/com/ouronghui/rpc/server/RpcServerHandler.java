@@ -1,7 +1,7 @@
-package com.morefun.rpc.server;
+package com.ouronghui.rpc.server;
 
-import com.morefun.rpc.common.bean.RpcRequest;
-import com.morefun.rpc.common.bean.RpcResponse;
+import com.ouronghui.rpc.common.bean.RpcRequest;
+import com.ouronghui.rpc.common.bean.RpcResponse;
 import io.netty.channel.ChannelFutureListener;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;

@@ -1,6 +1,6 @@
-package com.morefun.rpc.common.codec;
+package com.ouronghui.rpc.common.codec;
 
-import com.morefun.rpc.common.util.SerializationUtil;
+import com.ouronghui.rpc.common.util.SerializationUtil;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.MessageToByteEncoder;

@@ -1,4 +1,4 @@
-package com.morefu.rpc.registry;
+package com.ouronghui.rpc.registry;
 
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;

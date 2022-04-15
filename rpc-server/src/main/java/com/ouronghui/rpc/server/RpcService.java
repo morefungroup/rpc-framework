@@ -1,4 +1,4 @@
-package com.morefun.rpc.server;
+package com.ouronghui.rpc.server;
 
 import org.springframework.stereotype.Service;
 

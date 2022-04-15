@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.morefun</groupId>
+    <groupId>com.ouronghui</groupId>
     <artifactId>rpc-framework</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>${revision}</version>
     <modules>
         <module>rpc-registry</module>
         <module>rpc-server</module>
@@ -16,9 +16,12 @@
     </modules>
 
     <properties>
-        <rpc.frameowrk.version>1.0.0</rpc.frameowrk.version>
+        <revision>1.0.0-SNAPSHOT</revision>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
     </properties>
 
     <dependencyManagement>

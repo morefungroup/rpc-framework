@@ -1,4 +1,4 @@
-package com.morefu.rpc.registry;
+package com.ouronghui.rpc.registry;
 
 /**
  * 相关常量

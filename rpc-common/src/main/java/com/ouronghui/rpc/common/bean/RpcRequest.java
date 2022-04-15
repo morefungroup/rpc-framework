@@ -1,4 +1,4 @@
-package com.morefun.rpc.common.bean;
+package com.ouronghui.rpc.common.bean;
 
 /**
  * 封装 RPC 请求

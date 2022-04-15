@@ -1,6 +1,6 @@
-package com.morefun.rpc.client;
+package com.ouronghui.rpc.client;
 
-import com.morefun.rpc.common.bean.RpcResponse;
+import com.ouronghui.rpc.common.bean.RpcResponse;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 import org.slf4j.Logger;

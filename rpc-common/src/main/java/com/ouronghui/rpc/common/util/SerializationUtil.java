@@ -1,4 +1,4 @@
-package com.morefun.rpc.common.util;
+package com.ouronghui.rpc.common.util;
 
 import io.protostuff.LinkedBuffer;
 import io.protostuff.ProtostuffIOUtil;
